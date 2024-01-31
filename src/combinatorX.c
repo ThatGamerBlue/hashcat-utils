@@ -7,6 +7,7 @@
  *
  * Enhanced version of unix-ninja 'combinator3'
  * feat. lightweight dolphin macro :P
+ * :D
  */
 
 #define _GNU_SOURCE
